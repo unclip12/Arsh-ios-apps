@@ -24,8 +24,8 @@
         "Rebranded settings menu uniformly to YT Pro Settings",
         "1-Year Apple Developer wildcard signed (expires Nov 2027)"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/ytpro.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/ytpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     },
     "com.arsh12.igpro.ios": {
       "app_id": "igpro",
@@ -47,8 +47,8 @@
         "Rebranded settings uniformly to IG Pro Settings",
         "Integrated NoPluginsPatch.dylib for clean sideloading"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/igpro.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/igpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     },
     "com.arsh12.tweetpro.ios": {
       "app_id": "twpro",
@@ -69,8 +69,8 @@
         "Stripped developer section headers and external links",
         "Ad-free timeline, video downloads, and Blue features unlocked"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/twpro.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/twpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     },
     "com.arsh12.rdpro.ios": {
       "app_id": "rdpro",
@@ -90,8 +90,8 @@
         "Removed third-party author references and telemetry",
         "Ad-free Reddit experience with customizable feed filtering and gesture controls"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/rdpro.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/rdpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     },
     "com.arsh12.infusepro.ios": {
       "app_id": "infuse",
@@ -111,8 +111,8 @@
         "Stripped BuyMeACoffee, Telegram, and Discord links",
         "Pro playback features, HDR/Dolby Vision, and cloud streaming unlocked"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/infuse.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/infuse.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     },
     "com.arsh12.stremio.ios": {
       "app_id": "stremio",
@@ -131,8 +131,8 @@
         "Integrated Torrentio, RealDebrid, and streaming add-on support",
         "Clean wildcard profile signing with 1-Year certificate"
       ],
-      "ota_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/manifest/stremio.plist",
-      "hub_url": "https://intervention-parcel-puerto-selective.trycloudflare.com/apps"
+      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/stremio.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
     }
   }
 }
