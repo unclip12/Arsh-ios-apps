@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "fleet_title": "Arsh iOS App Fleet",
+  "repository": "unclip12/Arsh-ios-apps",
+  "last_updated": "2026-11-23T19:38:00+05:30",
+  "apps": {
+    "com.arsh12.ytpro.ios": {
+      "app_id": "ytpro",
+      "name": "YT Pro",
+      "display_name": "YT Pro",
+      "bundle_id": "com.arsh12.ytpro.ios",
+      "fleet_version": "1.1",
+      "base_version": "21.47.6",
+      "tweak_version": "v1.1.9",
+      "version_display": "21.47.6 (Fleet v1.1)",
+      "file_name": "YT_Pro.ipa",
+      "file_size": "130 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.1/YT_Pro.ipa",
+      "whats_new": [
+        "In-house frosted glass skip button pill in player",
+        "Upgraded base app to YouTube 21.47.6",
+        "Upgraded tweak engine to YTKACE v1.1.9",
+        "Deep sanitization: stripped external links and developer credits",
+        "Rebranded settings menu uniformly to YT Pro Settings",
+        "1-Year Apple Developer wildcard signed (expires Nov 2027)"
+      ]
+    },
+    "com.arsh12.igpro.ios": {
+      "app_id": "igpro",
+      "name": "IG Pro",
+      "display_name": "IG Pro",
+      "bundle_id": "com.arsh12.igpro.ios",
+      "fleet_version": "1.1",
+      "base_version": "456.0.0",
+      "tweak_version": "v1.6.0",
+      "version_display": "456.0.0 (Fleet v1.1)",
+      "file_name": "IG_Pro.ipa",
+      "file_size": "310 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.1/IG_Pro.ipa",
+      "whats_new": [
+        "Upgraded base app to Instagram 456.0.0",
+        "Upgraded tweak engine to RyukGram v1.6.0",
+        "Neutralized outbound GitHub queries & update popups",
+        "Silenced first-run alerts and stripped donation/Telegram links",
+        "Rebranded settings uniformly to IG Pro Settings",
+        "Integrated NoPluginsPatch.dylib for clean sideloading"
+      ]
+    },
+    "com.arsh12.tweetpro.ios": {
+      "app_id": "twpro",
+      "name": "TW Pro",
+      "display_name": "TW Pro",
+      "bundle_id": "com.arsh12.tweetpro.ios",
+      "fleet_version": "1.1",
+      "base_version": "12.39",
+      "tweak_version": "v7.3.1",
+      "version_display": "12.39 (Fleet v1.1)",
+      "file_name": "TW_Pro.ipa",
+      "file_size": "229 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.1/TW_Pro.ipa",
+      "whats_new": [
+        "Settings menu and UI rebranded uniformly to TW Pro Settings",
+        "Neutralized outbound telemetry: blocked 14 external unavatar.io network queries",
+        "Silenced first-run GitHub download warning popups",
+        "Stripped developer section headers and external links",
+        "Ad-free timeline, video downloads, and Blue features unlocked"
+      ]
+    },
+    "com.arsh12.rdpro.ios": {
+      "app_id": "rdpro",
+      "name": "RD Pro",
+      "display_name": "RD Pro",
+      "bundle_id": "com.arsh12.rdpro.ios",
+      "fleet_version": "1.1",
+      "base_version": "2026.46.0",
+      "tweak_version": "v1.4.0",
+      "version_display": "2026.46.0 (Fleet v1.1)",
+      "file_name": "RD_Pro.ipa",
+      "file_size": "131 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.1/RD_Pro.ipa",
+      "whats_new": [
+        "Settings menu and UI rebranded uniformly to RD Pro Settings",
+        "Blocked outbound GitHub release update checks in tweak binary",
+        "Removed third-party author references and telemetry",
+        "Ad-free Reddit experience with customizable feed filtering and gesture controls"
+      ]
+    },
+    "com.arsh12.infusepro.ios": {
+      "app_id": "infuse",
+      "name": "Infuse Pro",
+      "display_name": "Infuse Pro",
+      "bundle_id": "com.arsh12.infusepro.ios",
+      "fleet_version": "1.1",
+      "base_version": "8.5.10",
+      "tweak_version": "v2.6.1",
+      "version_display": "8.5.10 (Fleet v1.1)",
+      "file_name": "INF_Pro.ipa",
+      "file_size": "93 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.1/INF_Pro.ipa",
+      "whats_new": [
+        "Rebranded to Infuse Pro across all 10 language bundles",
+        "Blocked 10 outbound network endpoints including GitHub releases and automatic startup strings redownload",
+        "Stripped BuyMeACoffee, Telegram, and Discord links",
+        "Pro playback features, HDR/Dolby Vision, and cloud streaming unlocked"
+      ]
+    },
+    "com.arsh12.stremio.ios": {
+      "app_id": "stremio",
+      "name": "Stremio",
+      "display_name": "Stremio",
+      "bundle_id": "com.arsh12.stremio.ios",
+      "fleet_version": "1.0",
+      "base_version": "2.1.2",
+      "tweak_version": "Native",
+      "version_display": "2.1.2 (Fleet v1.0)",
+      "file_name": "STR_Pro.ipa",
+      "file_size": "80 MB",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.0/STR_Pro.ipa",
+      "whats_new": [
+        "Official native open-source iOS build",
+        "Integrated Torrentio, RealDebrid, and streaming add-on support",
+        "Clean wildcard profile signing with 1-Year certificate"
+      ]
+    }
+  }
+}
