@@ -25,7 +25,7 @@
         "1-Year Apple Developer wildcard signed (expires Nov 2027)"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/ytpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/ytpro.plist"
     },
     "com.arsh12.igpro.ios": {
@@ -49,7 +49,7 @@
         "Integrated NoPluginsPatch.dylib for clean sideloading"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/igpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/igpro.plist"
     },
     "com.arsh12.tweetpro.ios": {
@@ -72,7 +72,7 @@
         "Ad-free timeline, video downloads, and Blue features unlocked"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/twpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/twpro.plist"
     },
     "com.arsh12.rdpro.ios": {
@@ -94,7 +94,7 @@
         "Ad-free Reddit experience with customizable feed filtering and gesture controls"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/rdpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/rdpro.plist"
     },
     "com.arsh12.infusepro.ios": {
@@ -116,7 +116,7 @@
         "Pro playback features, HDR/Dolby Vision, and cloud streaming unlocked"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/infuse.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/infuse.plist"
     },
     "com.arsh12.stremio.ios": {
@@ -137,7 +137,7 @@
         "Clean wildcard profile signing with 1-Year certificate"
       ],
       "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/stremio.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "hub_url": "https://unclip12.github.io/Arsh-ios-apps/",
       "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/stremio.plist"
     }
   },
