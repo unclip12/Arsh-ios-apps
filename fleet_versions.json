@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "fleet_title": "Arsh iOS App Fleet",
   "repository": "unclip12/Arsh-ios-apps",
-  "last_updated": "2026-11-23T19:38:00+05:30",
+  "last_updated": "2026-11-24T00:18:19.289085",
   "apps": {
     "com.arsh12.ytpro.ios": {
       "app_id": "ytpro",
@@ -24,8 +24,9 @@
         "Rebranded settings menu uniformly to YT Pro Settings",
         "1-Year Apple Developer wildcard signed (expires Nov 2027)"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/ytpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/ytpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/ytpro.plist"
     },
     "com.arsh12.igpro.ios": {
       "app_id": "igpro",
@@ -47,8 +48,9 @@
         "Rebranded settings uniformly to IG Pro Settings",
         "Integrated NoPluginsPatch.dylib for clean sideloading"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/igpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/igpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/igpro.plist"
     },
     "com.arsh12.tweetpro.ios": {
       "app_id": "twpro",
@@ -69,8 +71,9 @@
         "Stripped developer section headers and external links",
         "Ad-free timeline, video downloads, and Blue features unlocked"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/twpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/twpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/twpro.plist"
     },
     "com.arsh12.rdpro.ios": {
       "app_id": "rdpro",
@@ -90,8 +93,9 @@
         "Removed third-party author references and telemetry",
         "Ad-free Reddit experience with customizable feed filtering and gesture controls"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/rdpro.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/rdpro.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/rdpro.plist"
     },
     "com.arsh12.infusepro.ios": {
       "app_id": "infuse",
@@ -111,8 +115,9 @@
         "Stripped BuyMeACoffee, Telegram, and Discord links",
         "Pro playback features, HDR/Dolby Vision, and cloud streaming unlocked"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/infuse.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/infuse.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/infuse.plist"
     },
     "com.arsh12.stremio.ios": {
       "app_id": "stremio",
@@ -131,8 +136,10 @@
         "Integrated Torrentio, RealDebrid, and streaming add-on support",
         "Clean wildcard profile signing with 1-Year certificate"
       ],
-      "ota_url": "https://split-aqua-bible-org.trycloudflare.com/manifest/stremio.plist",
-      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps"
+      "ota_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/stremio.plist",
+      "hub_url": "https://split-aqua-bible-org.trycloudflare.com/apps",
+      "manifest_url": "https://unclip12.github.io/Arsh-ios-apps/manifests/stremio.plist"
     }
-  }
+  },
+  "app_hub_url": "https://unclip12.github.io/Arsh-ios-apps"
 }
