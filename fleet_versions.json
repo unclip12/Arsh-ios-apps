@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "fleet_title": "App Hub — iOS Fleet",
   "repository": "unclip12/Arsh-ios-apps",
-  "last_updated": "2026-11-28T01:10:00+05:30",
+  "last_updated": "2026-11-28T01:17:00+05:30",
   "apps": {
     "com.arsh12.ytpro.ios": {
       "app_id": "ytpro",
@@ -100,18 +100,18 @@
       "name": "Infuse Pro",
       "display_name": "Infuse Pro",
       "bundle_id": "com.arsh12.infusepro.ios",
-      "fleet_version": "1.2",
+      "fleet_version": "1.3",
       "base_version": "8.5.10",
-      "tweak_version": "v1.2",
-      "version_display": "8.5.10 (Fleet v1.2)",
+      "tweak_version": "v1.3",
+      "version_display": "8.5.10 (Fleet v1.3)",
       "file_name": "INF_Pro.ipa",
       "file_size": "93 MB",
-      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.2/INF_Pro.ipa",
+      "github_download_url": "https://github.com/unclip12/Arsh-ios-apps/releases/download/v1.3/INF_Pro.ipa",
       "whats_new": [
+        "Added Separate Player Brightness setting to keep movie brightness independent from iOS/iPadOS system brightness",
+        "Automatically restores your device brightness when exiting the player or switching apps",
         "Restored 1-Tap emerald HUD playback stats button in player controls",
-        "Unified Infuse Pro branding across Settings and all 10 language packs",
         "Full Pro unlocked with 4K HDR, Dolby Vision, Atmos & cloud streaming",
-        "Streamlined Settings layout with zero external promo links or popups",
         "Built-in OTA release notifications and What's New release history"
       ],
       "ota_url": "https://arshapps.pages.dev/manifests/infuse.plist",
